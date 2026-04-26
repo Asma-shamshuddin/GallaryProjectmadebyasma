@@ -1,22 +1,40 @@
-# Gallery Project Made by Asma
+# 🌟 Gallery Project Made by Asma
 
-This is a React + Vite based gallery project.
+A modern and responsive **Image Gallery Web Application** built using React and Vite.  
+This project showcases a clean UI with fast performance and smooth user experience.
 
-## 🚀 Features
-- Image gallery UI
-- Responsive design
-- Fast performance using Vite
+---
+
+## 🚀 Live Demo
+🔗 (Add your deployed link here)
+
+---
+
+## 📸 Preview
+![alt text](image.png)
+
+---
+
+## ✨ Features
+- 📷 Beautiful image gallery layout  
+- ⚡ Fast performance with Vite  
+- 📱 Fully responsive design  
+- 🎨 Clean and modern UI  
+
+---
 
 ## 🛠️ Tech Stack
-- React
-- Vite
-- JavaScript
-- CSS
+- React  
+- Vite  
+- JavaScript  
+- HTML & CSS  
 
-## 📂 Setup Instructions
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm run dev`
+---
 
-## 📌 Author
-Asma Begum
+## 📂 Installation & Setup
+
+```bash
+git clone https://github.com/Asma-shamshuddin/GallaryProjectMadeByAsma.git
+cd GallaryProjectMadeByAsma
+npm install
+npm run dev

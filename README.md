@@ -36,6 +36,8 @@ git clone https://github.com/Asma-shamshuddin/GallaryProjectMadeByAsma.git
 cd GallaryProjectMadeByAsma
 npm install
 npm run dev
----
+
+
+
 ## 📌 Contributer
 Asma Begum

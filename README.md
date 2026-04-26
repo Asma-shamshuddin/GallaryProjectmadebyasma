@@ -11,7 +11,8 @@ This project showcases a clean UI with fast performance and smooth user experien
 ---
 
 ## 📸 Preview
-![alt text](image.png)
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/979a9617-d482-4f67-9c77-5a9958d18ced" />
+
 
 ---
 
@@ -38,3 +39,6 @@ git clone https://github.com/Asma-shamshuddin/GallaryProjectMadeByAsma.git
 cd GallaryProjectMadeByAsma
 npm install
 npm run dev
+
+## 📌 Contributer
+Asma Begum
